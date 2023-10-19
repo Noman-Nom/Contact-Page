@@ -1,0 +1,32 @@
+.primbtn{
+   display: flex;
+    padding: 10px 18px;
+    min-width: 220px;
+    height: 44px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+
+}
+.outLinebtn{
+    display: flex;
+    padding: 10px 18px;
+    min-width: 220px;
+    border: 1px solid black;
+    height: 44px;
+    /* background-color: black; */
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: white;
+    width: 100%;
+    font-weight: bold;
+    cursor: pointer;
+
+}

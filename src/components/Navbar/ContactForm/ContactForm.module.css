@@ -1,0 +1,54 @@
+.container{
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.topbtn{
+ display: flex;
+align-items: flex-start;
+gap: 32px;
+}
+.contactfrom{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.form_conttrol{
+    display: flex;
+    flex-direction: column;
+    width:100% ;
+}
+.name1{
+    /* margin-top: 34px; */
+width: 440px;
+height: 40px;
+flex-shrink: 0;
+}
+.e_mail{
+ margin-top: 16px;
+    width: 440px;
+height: 40px;
+flex-shrink: 0;
+}
+.text{
+    margin-top: 20px;
+    width: 440px;
+    height: 120px;
+    flex-shrink: 0;
+}
+.mg{
+    margin-left: 20px;
+
+}
+.abc{
+    margin-left: 16px;
+}
+.contactimg{
+    width: 608px;
+    height: 450px;
+}
+.cimg{
+   width: 100%;
+   height: 100%;
+}
+

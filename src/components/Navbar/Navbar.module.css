@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    padding: 0 8px;
+    height: 73px;
+    justify-content: space-between;
+    align-items: center;
+}
+.logoimg{
+    height: 100%;
+    width: 100%;
+}
+.logo{
+    width: 100px;
+    height: 60px;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    font-weight: 500px;
+}
